@@ -1,0 +1,22 @@
+happy,1
+sad,-1
+awesome,2
+great,2
+amazing,2
+horrible,-2
+sucks,-2
+incredible,2
+okay,1
+shitty,-2
+wow,1
+no,-1
+never,-2
+bad,-2
+good,2
+meh,1
+love,2
+win,2
+so good,3
+so awesome,4
+worst,-5
+best,5
